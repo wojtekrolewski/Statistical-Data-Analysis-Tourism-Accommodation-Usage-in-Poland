@@ -53,3 +53,4 @@ Application of hypothesis testing to support analytical conclusions.
 - The COVID-19 period introduced visible structural breaks in tourism activity.
 - Statistical tests confirmed that observed differences were not random, but systematic and data-supported.
 
+Report in details included in Accomodation.pdf.
